@@ -1,0 +1,24 @@
+{
+  "name": "compress-images",
+  "version": "1.0.0",
+  "description": "Local TinyPNG-like image compression (PNG, JPG, WebP). No API keys, no limits.",
+  "type": "module",
+  "bin": {
+    "compress-images": "compress-images.mjs"
+  },
+  "files": [
+    "compress-images.mjs"
+  ],
+  "dependencies": {
+    "sharp": "^0.35.5"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "keywords": ["image", "compression", "tinypng", "png", "jpeg", "webp", "sharp", "claude", "skill"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meganursultan-hash/compress-images.git"
+  },
+  "license": "MIT"
+}
