@@ -1,0 +1,7 @@
+node_modules/
+*-compressed/
+*.min.png
+*.min.jpg
+*.min.jpeg
+*.min.webp
+.DS_Store
